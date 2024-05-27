@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: lightblue;
-    background-image:url("./image/back.jpg");
+    background-image:url("./back.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
